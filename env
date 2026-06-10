@@ -1,0 +1,8 @@
+PORT=3000
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=amerejuv_ss
+DB_PASSWORD=cyberdomeusa123
+DB_NAME=amerejuv_ss
+NODE_ENV=production
+ 
